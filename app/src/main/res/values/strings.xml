@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="title1">Find all about your attendance right here! </string>
+    <string name="editx1t">Total classes</string>
+    <string name="edittx1h">Enter total classes</string>
+    <string name="editx2t">Attended classes</string>
+    <string name="edittx2h">Enter attended classes</string>
+    <string name="buttex1">Submit!</string>
+    <string name="percenttitl">your attendance is </string>
+    <string name="eightab">You are fairly regular you can skip some classes and have some fun</string>
+    <string name="misscl">You can miss </string>
+    <string name="a7580">You dont need to change your habits, you will be fine.</string>
+    <string name="a7560">You do need to attend some classes ,but dont worry it is easy to recover.</string>
+    <string name="a6050">You really need to attend some classes , it might take time to recover.</string>
+    <string name="a500">You seem to be in some trouble. Dont even think of skipping class now!</string>
+    <string name="attcl">You need to attend</string>
+    <string name="rem0">We will tell you class to attended here</string>
+</resources>
